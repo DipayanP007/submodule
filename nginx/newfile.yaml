@@ -1,2 +1,2 @@
 deploy:
-  replicas: 3
+  replicas: 6
